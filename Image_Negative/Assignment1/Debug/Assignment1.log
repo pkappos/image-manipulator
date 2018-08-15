@@ -1,0 +1,5 @@
+﻿  main.cpp
+  Image.cpp
+  Generating Code...
+ppm_d.lib(ppm.obj) : warning LNK4099: PDB 'ppm_library.pdb' was not found with 'ppm_d.lib(ppm.obj)' or at 'C:\Users\k_pan_000\Documents\C++\Assignment_17-18\1stASSG_3120055_3150150\Assignment1\Debug\ppm_library.pdb'; linking object as if no debug info
+  Assignment1.vcxproj -> C:\Users\k_pan_000\Documents\C++\Assignment_17-18\1stASSG_3120055_3150150\Assignment1\Debug\Assignment1.exe
