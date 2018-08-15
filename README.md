@@ -10,3 +10,18 @@ Genral instructions for the project execution
 Instructions for executing the first project
 
 -> Write in the console : neg photosample.ppm
+
+Instructions for executing the second project
+
+-> Write in the console : filter -f gamma 2.0 -f linear -1 -1 -1 1 1 1 sampleImage.ppm
+*The first filter defines the linear and the second gamma filter
+*The 2nd project has some problems during filtering which i am commited to fix in the near future.
+
+Generally the skills we demonstrated are : 
+
+1) Creating and managing libraries.
+2) Dynamic allocation and deallocation of memory
+3) Pointer usage
+4) Reading and writing to files
+5) Templates usage
+6) Object oriented programming
